@@ -1,1 +1,1 @@
-# test
+<img src="resources/logo.png">
