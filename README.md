@@ -1,1 +1,1 @@
-<img src="https://github.com/esadek/test/blob/main/resources/logo.png">
+<img src="resources/logo.png">
