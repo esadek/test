@@ -3,7 +3,7 @@ name: Update Docs
 on: push
 
 jobs:
-  lint:
+  update-docs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
