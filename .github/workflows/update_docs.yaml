@@ -1,7 +1,5 @@
 name: Update Docs
-
 on: push
-
 jobs:
   update-docs:
     runs-on: ubuntu-latest
